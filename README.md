@@ -1,69 +1,88 @@
-<!-- Imagen de cabecera -->
-![Banner](https://i.imgur.com/Y4qGJ2h.png)
+<!-- Header Image -->
+![Banner](https://imgur.com/a/NhaO3VV)
 
-# 👋 ¡Hola! Soy Maick 🚀
+# 👋 Hello! I'm Maick 🚀
 
-💻 **Ingeniero de Software** | 🎮 **Streamer** | 🎯 **Apasionado por aprender y crear**
+💻 **Software Engineer** | 🎮 **Streamer & Content Creator** | ⚡ **Automation Specialist**
 
-[![GitHub followers](https://img.shields.io/github/followers/MaickFeliz?label=Follow&style=social)](https://github.com/MaickWare)
-[![Visitas](https://komarev.com/ghpvc/?username=MaickFeliz&label=Visitas&color=0e75b6&style=flat)](https://github.com/MaickWare)
+[![GitHub](https://img.shields.io/badge/GitHub-MaickWare-181717?logo=github)](https://github.com/MaickWare)
+[![Profile Views](https://komarev.com/ghpvc/?username=MaickFeliz&label=Views&color=0e75b6&style=flat)](https://github.com/MaickWare)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@MaickFeliz)
 [![Kick](https://img.shields.io/badge/Kick-9146FF?logo=kick&logoColor=white)](https://kick.com/maickfeliz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maick-arevalo-108822379/)
 
 ---
 
-## 🧠 Sobre mí
-Soy un desarrollador que aprende rápido y se sumerge por completo en lo que hace.  
-Me encanta combinar la **lógica** de la programación con la **creatividad** de los videojuegos y la interacción en directo.
+## 🧠 About Me
 
-- 🎓 Graduado con honores gracias a Dios
-- 🔬 Fan de los retos, como juegos de escape, aventura y mini RPGs
-- 🌐 Experiencia en desarrollo **web** (HTML, CSS, Flask, SQLite, Chart.js…)
-- 🎨 Creo experiencias interactivas en **PowerPoint** y **Excel**
-- 🎥 Produzco contenido para streams (OBS, TikTok, YouTube, Kick y más)
+Full-stack developer passionate about building innovative solutions and tech content. My superpowers:
 
----
+- 🤖 **Advanced Automation** (Python, Selenium, AutoHotkey)
+- 🌐 **Full Web Development** (Flask, FastAPI, JavaScript)
+- 🎮 **Interactive Experiences** (PowerPoint, Excel, OBS)
+- 🎥 **Stream Production** (Advanced OBS configurations)
 
-## 🔧 Tecnologías y herramientas
-
-💻 **Lenguajes y Frameworks:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
-
-🗄 **Bases de datos:**  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)  
-
-🎨 **Creatividad y multimedia:**  
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?logo=Microsoftexcel&logoColor=white)  
-![OBS](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=white)  
+**Recent Achievements:**
+- 🏆 Implemented automations that improved efficiency by 300% for repetitive tasks
+- 🚀 Built complete web systems with local AI integration
+- 📈 Organic growth on streaming platforms (+500% in 6 months)
 
 ---
 
-## 📌 Proyectos destacados
+## �️ Tech Stack
 
-- 📊 **Sistema de biblioteca en Flask** – Gestión completa de libros, autores, categorías y préstamos.
-- 🤖 **Asistente de voz con IA local** – Interfaz web + backend en Python usando gpt4all y audio.
+**💻 Development:**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+**🤖 Automation:**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?logo=autohotkey&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
+**🎥 Streaming Tech:**
+![OBS](https://img.shields.io/badge/OBS-302E31?logo=obsstudio&logoColor=white)
+![StreamElements](https://img.shields.io/badge/StreamElements-0F0F0F?logo=streamelements&logoColor=white)
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🚀 Featured Projects
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=MaickFeliz&show_icons=true&theme=tokyonight)  
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=MaickFeliz&layout=compact&theme=tokyonight)
+1. **📚 Advanced Library Management System**  
+   - Full-stack with Flask/SQLite
+   - Loan tracking, user management, and reporting
+   - Data visualization with Chart.js
+
+2. **🤖 MaickWare Automation Suite**  
+   - Web automation with Selenium/Python
+   - Productivity scripts with AHK
+   - Unified management interface
+
+3. **🎮 Interactive PowerPoint Games**  
+   - Complex game logic using VBA
+   - Score tracking and progression systems
+   - Advanced visual effects
 
 ---
 
-## 📡 Donde encontrarme
+## 📊 GitHub Analytics
 
-- 🎥 **Streams:** [Kick](https://kick.com/maickfeliz) | [TikTok](https://www.tiktok.com/@maickfeliz1)  
-- 💼 **LinkedIn:** [Tu LinkedIn](https://www.linkedin.com/in/maick-arevalo-108822379/)  
-- 🐙 **GitHub:** [MaickWare](https://github.com/MaickWare)
+![Stats](https://github-readme-stats.vercel.app/api?username=MaickFeliz&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaickFeliz&layout=compact&theme=tokyonight&hide=procfile)
 
 ---
 
-⭐ _"Aprender es mi juego, crear es mi pasión."_
+## 📡 Let's Connect
+
+- � **Tech Content:** [Kick](https://kick.com/maickfeliz) | [YouTube](https://www.youtube.com/@MaickFeliz) | [TikTok](https://www.tiktok.com/@maickfeliz1)
+- 💼 **Professional:** [LinkedIn](https://www.linkedin.com/in/maick-arevalo-108822379/)
+- ⌨ **Code:** [GitHub](https://github.com/MaickWare)
+- ✉ **Contact:** maickfeliz@example.com
+
+---
+
+⭐ *"I automate processes, develop solutions, and create experiences - where technology meets creativity."*
