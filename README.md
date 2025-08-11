@@ -81,7 +81,7 @@ Full-stack developer passionate about building innovative solutions and tech con
 - � **Tech Content:** [Kick](https://kick.com/maickfeliz) | [YouTube](https://www.youtube.com/@MaickFeliz) | [TikTok](https://www.tiktok.com/@maickfeliz1)
 - 💼 **Professional:** [LinkedIn](https://www.linkedin.com/in/maick-arevalo-108822379/)
 - ⌨ **Code:** [GitHub](https://github.com/MaickWare)
-- ✉ **Contact:** maickfeliz@example.com
+- ✉ **Contact:** softwaremaick@gmail.com
 
 ---
 
