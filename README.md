@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-MaickWare-181717?logo=github)](https://github.com/MaickWare)
 [![Profile Views](https://komarev.com/ghpvc/?username=MaickFeliz&label=Views&color=0e75b6&style=flat)](https://github.com/MaickWare)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@MaickFeliz)
-[![Kick](https://img.shields.io/badge/Kick-9146FF?logo=kick&logoColor=white)](https://kick.com/maickfeliz)
+[![Kick](https://img.shields.io/badge/Kick-46ff00?logo=kick&logoColor=white)](https://kick.com/maickfeliz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maick-arevalo-108822379/)
 
 ---
