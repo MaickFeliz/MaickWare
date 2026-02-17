@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/vAEPxsk.png" alt="Banner" width="100%">
+  <img src="(https://imgur.com/a/vAEPxsk)" alt="Banner" width="100%">
 </div>
 
 # 👋 Hello! I'm Maick 🚀
