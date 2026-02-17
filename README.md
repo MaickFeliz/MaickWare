@@ -1,4 +1,6 @@
-[![Banner](https://imgur.com/a/vAEPxsk)]
+<div align="center">
+  <img src="https://i.imgur.com/vAEPxsk.png" alt="Banner" width="100%">
+</div>
 
 # 👋 Hello! I'm Maick 🚀
 
@@ -9,6 +11,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@MaickFeliz)
 [![Kick](https://img.shields.io/badge/Kick-46ff00?logo=kick&logoColor=white)](https://kick.com/maickfeliz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maick-arevalo-108822379/)
+
+</div>
 
 ---
 
@@ -28,7 +32,7 @@ Full-stack developer passionate about building innovative solutions and tech con
 
 ---
 
-## �️ Tech Stack
+## 🛠️ Tech Stack
 
 **💻 Development:**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -51,18 +55,15 @@ Full-stack developer passionate about building innovative solutions and tech con
 
 ## 🚀 Featured Projects
 
-1. **📚 Advanced Library Management System**  
-   - Full-stack with Flask/SQLite
+1. **📚 Advanced Library Management System** - Full-stack with Flask/SQLite
    - Loan tracking, user management, and reporting
    - Data visualization with Chart.js
 
-2. **🤖 MaickWare Automation Suite**  
-   - Web automation with Selenium/Python
+2. **🤖 MaickWare Automation Suite** - Web automation with Selenium/Python
    - Productivity scripts with AHK
    - Unified management interface
 
-3. **🎮 Interactive PowerPoint Games**  
-   - Complex game logic using VBA
+3. **🎮 Interactive PowerPoint Games** - Complex game logic using VBA
    - Score tracking and progression systems
    - Advanced visual effects
 
@@ -77,11 +78,13 @@ Full-stack developer passionate about building innovative solutions and tech con
 
 ## 📡 Let's Connect
 
-- � **Tech Content:** [Kick](https://kick.com/maickfeliz) | [YouTube](https://www.youtube.com/@MaickFeliz) | [TikTok](https://www.tiktok.com/@maickfeliz1)
+- 🎥 **Tech Content:** [Kick](https://kick.com/maickfeliz) | [YouTube](https://www.youtube.com/@MaickFeliz) | [TikTok](https://www.tiktok.com/@maickfeliz1)
 - 💼 **Professional:** [LinkedIn](https://www.linkedin.com/in/maick-arevalo-108822379/)
 - ⌨ **Code:** [GitHub](https://github.com/MaickWare)
 - ✉ **Contact:** softwaremaick@gmail.com
 
 ---
 
-⭐ *"I automate processes, develop solutions, and create experiences - where technology meets creativity."*
+<div align="center">
+⭐ <i>"I automate processes, develop solutions, and create experiences - where technology meets creativity."</i>
+</div>
