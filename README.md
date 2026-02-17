@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://imgur.com/a/vAEPxsk.png" alt="Banner" width="100%">
-</div>
-
 # 👋 Hello! I'm Maick 🚀
 
 💻 **Software Engineer** | 🎮 **Streamer & Content Creator** | ⚡ **Automation Specialist**
