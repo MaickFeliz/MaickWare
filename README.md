@@ -1,5 +1,4 @@
-<!-- Header Image -->
-![Banner](https://imgur.com/a/vAEPxsk)
+[![Banner](https://imgur.com/a/vAEPxsk)]
 
 # 👋 Hello! I'm Maick 🚀
 
