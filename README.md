@@ -1,13 +1,93 @@
-# Hello! I'm MaickFeliz
+# ¡Hola! Soy Maick 👋
 
-💻 **Software Engineer** | 🎮 **Streamer & Content Creator** | ⚡ **Automation Specialist**
+💻 **Tecnólogo en Software** | 🤖 **Desarrollador Backend & IA** | 🎮 **Creador de Contenido**
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-MaickWare-181717?logo=github)](https://github.com/MaickWare)
-[![Profile Views](https://komarev.com/ghpvc/?username=MaickFeliz&label=Views&color=0e75b6&style=flat)](https://github.com/MaickWare)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@MaickFeliz)
-[![Kick](https://img.shields.io/badge/Kick-46ff00?logo=kick&logoColor=white)](https://kick.com/maickfeliz)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@maickfeliz777)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maick-arevalo-108822379/)
+
+</div>
+
+---
+
+## 🧠 Sobre Mí
+
+Soy un desarrollador de 18 años radicado en La Plata, Huila, Colombia. Actualmente me formo en el SENA y me apasiona construir soluciones backend robustas, investigar modelos de lenguajes locales y compartir mi proceso creativo. Mis áreas de enfoque incluyen:
+
+- 🤖 **Integración de IA** (Modelos locales, Hugging Face)
+- 🌐 **Desarrollo Backend y Full-Stack** (Python, Flask, FastAPI, Bases de datos)
+- 🎥 **Producción de Contenido y Streaming** (Configuraciones de OBS para TikTok y YouTube)
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🤖 HappyBot
+- Proyecto de Inteligencia Artificial personalizado.
+- Desarrollo de lógica backend unificada e integración de modelos.
+
+### 📚 SWL (Sistema Web de Librería)
+- Sistema de gestión de bibliotecas open-source.
+- Desarrollado con Flask y enfocado en seguimiento de préstamos y gestión de usuarios.
+- Recientemente refactorizado y migrado a un entorno independiente de la institución.
+
+### ⚙️ MaickWare Automation Suite
+- Automatización web con Selenium y Python.
+- Scripts de productividad.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Desarrollo
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
+
+### 🎥 Streaming Tech
+![OBS](https://img.shields.io/badge/OBS-302E31?logo=obsstudio&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MaickFeliz&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true)
+
+---
+
+## 📡 Conectemos
+
+| Plataforma | Enlace |
+|----------|------|
+| 🎥 **YouTube** | [MaickFeliz](https://www.youtube.com/@MaickFeliz) |
+| 📱 **TikTok** | [@maickfeliz777](https://www.tiktok.com/@maickfeliz777) |
+| 💼 **LinkedIn** | [Maick Arevalo](https://www.linkedin.com/in/maick-shannon-campos-ar%C3%A9valo-918686267/) |
+| ⌨️ **GitHub** | [MaickWare](https://github.com/MaickWare) |
+| ✉️ **Email** | arevalomashua@gmail.com |
+
+---
+
+<div align="center">
+
+⭐ **"Transformando lógica en realidad, un commit a la vez."**
+
+</div>
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Hello! I'm Maick 👋
+
+💻 **Software Technologist** | 🤖 **Backend & AI Developer** | 🎮 **Content Creator**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-MaickWare-181717?logo=github)](https://github.com/MaickWare)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@MaickFeliz)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@maickfeliz777)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maick-arevalo-108822379/)
 
 </div>
@@ -16,18 +96,28 @@
 
 ## 🧠 About Me
 
-Full-stack developer passionate about building innovative solutions and tech content. My superpowers:
+I am an 18-year-old developer based in La Plata, Huila, Colombia. Currently studying at SENA, I am passionate about building robust backend solutions, researching local language models, and sharing my creative process. My focus areas include:
 
-- 🤖 **Advanced Automation** (Python, Selenium, AutoHotkey)
-- 🌐 **Full Web Development** (Flask, FastAPI, JavaScript)
-- 🎮 **Interactive Experiences** (PowerPoint, Excel, OBS)
-- 🎥 **Stream Production** (Advanced OBS configurations)
+- 🤖 **AI Integration** (Local models, Hugging Face)
+- 🌐 **Backend & Full-Stack Development** (Python, Flask, FastAPI, Databases)
+- 🎥 **Content Production & Streaming** (OBS configurations for TikTok and YouTube)
 
-### Recent Achievements
+---
 
-- 🏆 Implemented automations that improved efficiency by 300% for repetitive tasks
-- 🚀 Built complete web systems with local AI integration
-- 📈 Organic growth on streaming platforms (+500% in 6 months)
+## 🚀 Featured Projects
+
+### 🤖 HappyBot
+- Custom Artificial Intelligence project.
+- Development of unified backend logic and model integration.
+
+### 📚 SWL (Advanced Library Management System)
+- Open-source library management system.
+- Built with Flask, focusing on loan tracking and user management.
+- Recently refactored and migrated to an institution-independent environment.
+
+### ⚙️ MaickWare Automation Suite
+- Web automation with Selenium and Python.
+- Productivity scripts.
 
 ---
 
@@ -37,44 +127,16 @@ Full-stack developer passionate about building innovative solutions and tech con
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-### 🤖 Automation
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
-![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?logo=autohotkey&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
 
 ### 🎥 Streaming Tech
 ![OBS](https://img.shields.io/badge/OBS-302E31?logo=obsstudio&logoColor=white)
-![StreamElements](https://img.shields.io/badge/StreamElements-0F0F0F?logo=streamelements&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 📚 Advanced Library Management System
-- Full-stack with Flask/SQLite
-- Loan tracking, user management, and reporting
-- Data visualization with Chart.js
-
-### 🤖 MaickWare Automation Suite
-- Web automation with Selenium/Python
-- Productivity scripts with AutoHotkey
-- Unified management interface
-
-### 🎮 Interactive PowerPoint Games
-- Complex game logic using VBA
-- Score tracking and progression systems
-- Advanced visual effects
 
 ---
 
 ## 📊 GitHub Analytics
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=MaickFeliz&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaickFeliz&layout=compact&theme=tokyonight&hide=procfile)
 
 ---
 
@@ -83,16 +145,15 @@ Full-stack developer passionate about building innovative solutions and tech con
 | Platform | Link |
 |----------|------|
 | 🎥 **YouTube** | [MaickFeliz](https://www.youtube.com/@MaickFeliz) |
-| 🎮 **Kick** | [maickfeliz](https://kick.com/maickfeliz) |
-| 📱 **TikTok** | [@maickfeliz1](https://www.tiktok.com/@maickfeliz1) |
+| 📱 **TikTok** | [@maickfeliz777](https://www.tiktok.com/@maickfeliz777) |
 | 💼 **LinkedIn** | [Maick Arevalo](https://www.linkedin.com/in/maick-arevalo-108822379/) |
 | ⌨️ **GitHub** | [MaickWare](https://github.com/MaickWare) |
-| ✉️ **Email** | softwaremaick@gmail.com |
+| ✉️ **Email** | arevalomashua@gmail.com |
 
 ---
 
 <div align="center">
 
-⭐ **"I automate processes, develop solutions, and create experiences - where technology meets creativity."**
+⭐ **"Transforming logic into reality, one commit at a time."**
 
 </div>
