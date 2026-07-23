@@ -34,7 +34,7 @@ Soy un desarrollador de 18 años radicado en La Plata, Huila, Colombia. Actualme
 - Desarrollado con Flask y enfocado en seguimiento de préstamos y gestión de usuarios.
 - Recientemente refactorizado y migrado a un entorno independiente de la institución.
 
-### ⚙️ MaickWare Automation Suite
+### ⚙️ MaickFeliz Automation Suite
 - Automatización web con Selenium y Python.
 - Scripts de productividad.
 
@@ -115,7 +115,7 @@ I am an 18-year-old developer based in La Plata, Huila, Colombia. Currently stud
 - Built with Flask, focusing on loan tracking and user management.
 - Recently refactored and migrated to an institution-independent environment.
 
-### ⚙️ MaickWare Automation Suite
+### ⚙️ MaickFeliz Automation Suite
 - Web automation with Selenium and Python.
 - Productivity scripts.
 
