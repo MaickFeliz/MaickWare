@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-MaickFeliz-181717?logo=github)](https://github.com/MaickFeliz)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@MaickFeliz)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@maickfeliz777)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@maickfeliz_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maick-shannon-campos-ar%C3%A9valo-918686267/)
 
 </div>
@@ -64,10 +64,10 @@ Soy un desarrollador de 18 años radicado en La Plata, Huila, Colombia. Actualme
 | Plataforma | Enlace |
 |----------|------|
 | 🎥 **YouTube** | [MaickFeliz](https://www.youtube.com/@MaickFeliz) |
-| 📱 **TikTok** | [@maickfeliz777](https://www.tiktok.com/@maickfeliz777) |
+| 📱 **TikTok** | [@maickfeliz_](https://www.tiktok.com/@maickfeliz_) |
 | 💼 **LinkedIn** | [Maick Arevalo](https://www.linkedin.com/in/maick-shannon-campos-ar%C3%A9valo-918686267/) |
 | ⌨️ **GitHub** | [MaickFeliz](https://github.com/MaickFeliz) |
-| ✉️ **Email** | arevalomashua@gmail.com |
+| ✉️ **Email** | maickfeliz.mf@gmail.com |
 
 ---
 
@@ -87,7 +87,7 @@ Soy un desarrollador de 18 años radicado en La Plata, Huila, Colombia. Actualme
 
 [![GitHub](https://img.shields.io/badge/GitHub-MaickFeliz-181717?logo=github)](https://github.com/MaickFeliz)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@MaickFeliz)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@maickfeliz777)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@maickfeliz_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maick-shannon-campos-ar%C3%A9valo-918686267/)
 
 </div>
@@ -145,10 +145,10 @@ I am an 18-year-old developer based in La Plata, Huila, Colombia. Currently stud
 | Platform | Link |
 |----------|------|
 | 🎥 **YouTube** | [MaickFeliz](https://www.youtube.com/@MaickFeliz) |
-| 📱 **TikTok** | [@maickfeliz777](https://www.tiktok.com/@maickfeliz777) |
+| 📱 **TikTok** | [@maickfeliz_](https://www.tiktok.com/@maickfeliz_) |
 | 💼 **LinkedIn** | [Maick Arevalo](https://www.linkedin.com/in/maick-shannon-campos-ar%C3%A9valo-918686267/) |
 | ⌨️ **GitHub** | [MaickFeliz](https://github.com/MaickFeliz) |
-| ✉️ **Email** | arevalomashua@gmail.com |
+| ✉️ **Email** | maickfeliz.mf@gmail.com |
 
 ---
 
@@ -157,3 +157,4 @@ I am an 18-year-old developer based in La Plata, Huila, Colombia. Currently stud
 ⭐ **"Transforming logic into reality, one commit at a time."**
 
 </div>
+
